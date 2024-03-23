@@ -1,0 +1,27 @@
+/* textInput.css */
+
+.input-container {
+    margin-bottom: 20px;
+  }
+  
+  .input-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .input-field.input-error {
+    border-color: #ff0000; /* Estilize o input quando houver erro */
+  }
+  
+  .error-message {
+    color: #ff0000;
+  }
+  

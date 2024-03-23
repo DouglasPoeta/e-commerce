@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "33d765ce-3b4f-4eab-9b28-7474a1c48257",
+      "name": "João Balão",
+      "email": "joaoBalao@gmail.com"
+    },
+    {
+      "id": "af9a74b7-d0e2-4f3e-88b0-42249e9f5d81",
+      "name": "Maria Silva",
+      "email": "maria.silva@example.com"
+    },
+    {
+      "id": "d4321a87-1257-4a02-b42b-c9156174bc42",
+      "name": "José Oliveira",
+      "email": "jose.oliveira@example.com"
+    },
+    {
+      "id": "6f3e21b5-4a4e-47e7-8340-4891fd24b7a2",
+      "name": "Ana Souza",
+      "email": "ana.souza@example.com"
+    },
+    {
+      "id": "8c6b4ec5-6de5-4b4a-b21a-87c5059cfb84",
+      "name": "Paulo Santos",
+      "email": "paulo.santos@example.com"
+    },
+    {
+      "id": "cb04b01a-d5af-4592-b39a-7a118b80a87b",
+      "name": "Fernanda Lima",
+      "email": "fernanda.lima@example.com"
+    },
+    {
+      "id": "e5628e19-daf5-43f0-8e0d-65a83b246a18",
+      "name": "Lucas Pereira",
+      "email": "lucas.pereira@example.com"
+    },
+    {
+      "id": "1a5cc22e-10a7-4f4b-b3f6-cfda694e8aa4",
+      "name": "Camila Rocha",
+      "email": "camila.rocha@example.com"
+    },
+    {
+      "id": "f8a1b8ed-0ec4-4345-a02c-9a03aa1a11c4",
+      "name": "Giovanna Costa",
+      "email": "giovanna.costa@example.com"
+    },
+    {
+      "id": "92a04543-3c9a-4f7f-92c0-3f31a1c1a152",
+      "name": "Rafael Almeida",
+      "email": "rafael.almeida@example.com"
+    },
+    {
+      "id": "bdf9f16b-6a2e-4af9-ae67-d1c86a3a5b36",
+      "name": "Juliana Vieira",
+      "email": "juliana.vieira@example.com"
+    },
+    {
+      "id": "01d532fc-2016-49a2-8a7e-4a0e6cfa90af",
+      "name": "Carlos Mendes",
+      "email": "carlos.mendes@example.com"
+    },
+    {
+      "id": "c4c8a2b1-f7ec-4928-bc1c-d0b65ee4a3c8",
+      "name": "Amanda Ferreira",
+      "email": "amanda.ferreira@example.com"
+    },
+    {
+      "id": "7a672d07-747a-4823-8106-69f8fc7313d5",
+      "name": "Pedro Carvalho",
+      "email": "pedro.carvalho@example.com"
+    },
+    {
+      "id": "9ec24a61-b87d-4c58-8e6a-c133f29e0b40",
+      "name": "Fernando Oliveira",
+      "email": "fernando.oliveira@example.com"
+    }
+  ]
+}
